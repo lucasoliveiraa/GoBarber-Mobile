@@ -35,6 +35,10 @@
       "react/jsx-props-no-spreading": "off",
       "prettier/prettier": "error",
       "no-use-before-define": "off",
+      "camelcase": "off",
+      "arrow-parens": "off",
+      "no-unused-vars": "off",
+      "no-empty-function": "off",
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
       "import/prefer-default-export": "off",
       "import/extensions": [
