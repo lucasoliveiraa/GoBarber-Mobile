@@ -233,7 +233,8 @@ const SignUp: React.FC = () => {
                 textContentType="newPassword"
                 returnKeyType="next"
                 onSubmitEditing={() =>
-                  confirmPasswordInputRef.current?.submitForm()}
+                  confirmPasswordInputRef.current?.submitForm()
+                }
               />
 
               <Input
